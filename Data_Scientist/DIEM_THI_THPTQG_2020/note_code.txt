@@ -1,0 +1,18 @@
+How to un-escape a backslash-escaped string?
+>>> escaped_str = '"Hello,\\nworld!"'
+>>> raw_str = eval(escaped_str)
+>>> print raw_str
+Hello,
+world!
+>>> 
+--------------------------------------------------------------------------------
+Change String -> bytes -> String hex -> bytes -> String
+>>> 'n17dcat020'.encode()
+b'n17dcat020'
+>>> 'n17dcat020'.encode().hex()
+'6e313764636174303230'
+>>> bytes.fromhex('6e313764636174303230')
+b'n17dcat020'
+>>> bytes.fromhex('6e313764636174303230').decode()
+'n17dcat020'
+>>> 
