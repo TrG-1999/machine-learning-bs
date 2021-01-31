@@ -1,6 +1,6 @@
 # Data-Scientist-bs
  Data Scientist
-## [1.Get Data and Analysis Data of DIEM_THPTQG_2020 ](https://github.com/TrG-1999/machine-learning-bs/tree/master/Data_Scientist/DIEM_THI_THPTQG_2020)
+# [1.Get Data and Analysis Data of DIEM_THPTQG_2020 ](https://github.com/TrG-1999/machine-learning-bs/tree/master/Data_Scientist/DIEM_THI_THPTQG_2020)
 >Truy cập website tra cứu điểm thi THPT QG năm 2020.
 ![Image of game char](https://github.com/TrG-1999/machine-learning-bs/blob/master/Data_Scientist/DIEM_THI_THPTQG_2020/1.PNG)
 
